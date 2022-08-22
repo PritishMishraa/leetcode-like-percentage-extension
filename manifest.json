@@ -1,0 +1,19 @@
+{
+    "name": "LeetCode Liked Percentage",
+    "description": "Shows the like percentage of question alongside other details",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://leetcode.com/problems/*/"
+            ],
+            "js": [
+                "content-script.js"
+            ]
+        }
+    ],
+    "icons": {
+        "128": "icon128.png"
+    }
+}
