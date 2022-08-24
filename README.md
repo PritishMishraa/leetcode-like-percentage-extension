@@ -2,7 +2,7 @@
   <img src="icon128.png">
   
   # leetcode-like-percentage-extension
-  Shows the like percentage of question alongside other details
+  Shows the like percentage of questions alongside other details
 </div>
 
 <br/>
